@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="core.HabitTrackerBackendTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-10-26T17:24:47.612Z" hostname="DESKTOP-4K07GQ3" time="0.014">
-  <properties/>
-  <testcase name="testAddHabitToBackend()" classname="core.HabitTrackerBackendTest" time="0.008"/>
-  <testcase name="testMarkCompleteBackend()" classname="core.HabitTrackerBackendTest" time="0.006"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
