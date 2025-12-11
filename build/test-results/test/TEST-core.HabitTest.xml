@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="core.HabitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-10-26T17:24:47.580Z" hostname="DESKTOP-4K07GQ3" time="0.024">
+  <properties/>
+  <testcase name="testMarkCompleteAndProgress()" classname="core.HabitTest" time="0.02"/>
+  <testcase name="testHabitConstructorAndGetters()" classname="core.HabitTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
